@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('admin', function () {
     return view('backend.index');
 });
+
+Route::get('setups', function () {
+    return view('backend.insert.setup');
+});

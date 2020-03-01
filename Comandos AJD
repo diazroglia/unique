@@ -8,3 +8,5 @@ git init
 git add .
 git commit -m "Commit message"
 git push origin master
+
+//******* No funcionaban los scripts, tuve que mover el jquery al header...
